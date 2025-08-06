@@ -39,6 +39,8 @@ Working on TicketHub helped me improve my skills in:
    git clone https://github.com/yourusername/TicketHub.git
    cd TicketHub
 2. Compile the project:
+   ```bash
    make
-3. Run the program:
+4. Run the program:
+   ```bash
    ./TicketHub
